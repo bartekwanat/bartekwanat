@@ -1,7 +1,19 @@
 ### Hi there 👋
-I'm a second year student of Computer Science, and I'm aspiring to be a .NET developer.
+<p> I'm a second year student of Computer Science, aspiring to be a junior .NET developer.</p>
+
+#### 🤝 Contact with my by the: 
+<ul>
+  <li>📫 
+    <a href = "mailto: bartlomiej.wanat95@gmail.com">Send Email</a>
+  </li>
+<li>
+  <a href="https://www.linkedin.com/in/bart%C5%82omiej-wanat-7a88991a4/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> &nbsp LinkedIn
+</ul>
 
 
+
+  
 <!--
 **bartekwanat/bartekwanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
