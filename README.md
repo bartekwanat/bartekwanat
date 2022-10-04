@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p> I'm a second year student of Computer Science, aspiring to be a junior .NET developer.</p>
+<p> I am a third year student in Computer Science, working as a Junior Software Engineer</p>
 
 #### 🤝 Contact with my by the: 
 <ul>
