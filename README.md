@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p> I am a third year student in Computer Science, working as a Junior Software Engineer</p>
+<p> I am an ambitious software engineer with a passion fordeveloping applications using technologies such as C#,.NET but also JavaScript. I'm in my last semester of myengineering degree in programming and data analyticsand have gained experience working at Unit4, both as anintern and junior software engineer. I focus on continuousdevelopment, care about code quality and am ready fornew challenges.</p>
 
 #### 🤝 Contact with my by the: 
 <ul>
