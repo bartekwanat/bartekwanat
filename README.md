@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p> I am an aspiring software engineer with a passion for developing applications using technologies such as C#,.NET, but also JavaScript. I graduated as an engineer with a degree in programming and data analysis, and I gain experience working at Unit4. I focus on continuous development, I care about the quality of code and I am ready for new challenges.</p>
+<p> I am ambitious software engineer with a passion for developing applications using technologies such as C#,.NET, but also JavaScript. I graduated as an engineer with a degree in programming and data analysis, and I gain experience working at Unit4. I focus on continuous development, I care about the quality of code and I am ready for new challenges.</p>
 
 #### 🤝 Contact with my by the: 
 <ul>
