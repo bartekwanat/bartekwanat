@@ -1,5 +1,11 @@
 ### Hi there 👋
-<p> I am ambitious software engineer with a passion for developing applications using technologies such as C#,.NET, but also JavaScript. I graduated as an engineer with a degree in programming and data analysis, and I gain experience working at Unit4. I focus on continuous development, I care about the quality of code and I am ready for new challenges.</p>
+<p> 
+I'm a software engineer focused on building backend applications using C#, .NET and cloud technologies. I have experience working on large-scale ERP systems at Unit4, where I develop and maintain business-critical features.
+
+I care about code quality, system reliability and continuous improvement. I also leverage modern tools like GitHub Copilot to enhance productivity and support problem-solving in complex systems.
+
+Always open to learning new technologies and taking on new challenges 🚀
+</p>
 
 #### 🤝 Contact with my by the: 
 <ul>
